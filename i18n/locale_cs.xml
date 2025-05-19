@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<l10n>
+    <translationContributors></translationContributors>
+    <locale>en</locale>
+
+    <elements>
+        <e k="actionIC_activate" v="IC: 激活"/>
+        <e k="actionIC_deactivate" v="IC: 停用"/>
+        <e k="actionIC_startMotor" v="IC: 起动引擎"/>
+        <e k="actionIC_stopMotor" v="IC: 停止引擎"/>
+        <e k="actionIC_liftImplement" v="IC: 提升机具"/>
+        <e k="actionIC_lowerImplement" v="IC: 下降机具"/>
+        <e k="actionIC_turnOnImplement" v="IC: 打开机具"/>
+        <e k="actionIC_turnOffImplement" v="IC: 关闭机具"/>
+        <e k="actionIC_foldImplement" v="IC: 折叠机具"/>
+        <e k="actionIC_unfoldImplement" v="IC: 展开机具"/>
+        <e k="actionIC_foldVehicle" v="IC: 折叠车辆"/>
+        <e k="actionIC_unfoldVehicle" v="IC: 展开车辆"/>
+        <e k="actionIC_foldPipe" v="IC: 折叠管道"/>
+        <e k="actionIC_unfoldPipe" v="IC: 展开管道"/>
+        <e k="actionIC_openRoof" v="IC: 打开车顶"/>
+        <e k="actionIC_closeRoof" v="IC: 关闭车顶"/>
+        <e k="actionIC_openDoor" v="IC: 打开门"/>
+        <e k="actionIC_closeDoor" v="IC: 关闭车门"/>
+        <e k="actionIC_openWindow" v="IC: 打开窗口"/>
+        <e k="actionIC_closeWindow" v="IC: 关闭窗口"/>
+        <e k="actionIC_lightsOn" v="IC: 转向灯 on"/>
+        <e k="actionIC_lightsOff" v="IC: 转向灯 off"/>
+        <e k="actionIC_highbeamlightsOn" v="IC: 转向远光灯 on"/>
+        <e k="actionIC_highbeamlightsOff" v="IC: 转向远光灯 off"/>
+        <e k="actionIC_workLightsFrontOn" v="IC: 转动前工作灯 on"/>
+        <e k="actionIC_workLightsFrontOff" v="IC: 转动前工作灯 off"/>
+        <e k="actionIC_workLightsBackOn" v="IC: 倒车工作灯 on"/>
+        <e k="actionIC_workLightsBackOff" v="IC: 倒车工作灯 off"/>
+        <e k="actionIC_turnLightsLeftOn" v="IC: 左转转向灯 on"/>
+        <e k="actionIC_turnLightsLeftOff" v="IC: 左转转向灯 off"/>
+        <e k="actionIC_turnLightsRightOn" v="IC: 右转转向灯 on"/>
+        <e k="actionIC_turnLightsRightOff" v="IC: 右转转向灯 off"/>
+        <e k="actionIC_hazardLightsOn" v="IC: 转向危险灯 on"/>
+        <e k="actionIC_hazardLightsOff" v="IC: 转向危险灯 off"/>
+        <e k="actionIC_pipeLightsOn" v="IC: 转向管灯 on"/>
+        <e k="actionIC_pipeLightsOff" v="IC: 转向管灯 off"/>
+        <e k="actionIC_sa_activate" v="IC: 启用转向辅助功能"/>
+        <e k="actionIC_sa_deactivate" v="IC: 停用转向辅助功能"/>
+        <e k="actionIC_sa_lines_activate" v="IC: 显示转向辅助管路"/>
+        <e k="actionIC_sa_lines_deactivate" v="IC: 隐藏转向辅助管路"/>
+        <e k="actionIC_cruiseControl_toggle" v="IC: 切换巡航控制"/>
+        <e k="actionIC_openCover" v="IC: 打开盖子"/>
+        <e k="actionIC_closeCover" v="IC: 关闭盖子"/>
+        <e k="actionIC_discharge" v="IC: 排放量"/>
+        <e k="actionIC_stop_discharge" v="IC: 停止排出"/>
+        <e k="actionIC_radioOn" v="IC: 收音机 on"/>
+        <e k="actionIC_radioOff" v="IC: 收音机 off"/>
+        <e k="actionIC_crabSteering_toggle" v="IC: 切换转向模式"/>
+        <e k="actionIC_reverseDriving_toggle" v="IC: 切换反向行驶"/>
+        <e k="actionIC_baler_toggleSize" v="IC: 更改捆大小（%dcm）"/>
+        <e k="actionIC_baler_dropBale" v="IC: 打捆机：卸载捆"/>
+        <e k="actionIC_baler_automaticDropOn" v="IC: 打捆机：启用自动放捆"/>
+        <e k="actionIC_baler_automaticDropOff" v="IC: 打捆机：禁用自动放捆"/>
+        <e k="actionIC_balerwrapper_dropBale" v="IC: 捆包装器：卸载捆"/>
+        <e k="actionIC_balerwrapper_automaticDropOn" v="IC: 捆包装器：启用自动放捆"/>
+        <e k="actionIC_balerwrapper_automaticDropOff" v="IC: 捆包装器：禁用自动放捆"/>
+        <e k="actionIC_parkingbrakeOn" v="IC: 驻车制动器 on"/>
+        <e k="actionIC_parkingbrakeOff" v="IC: 驻车制动器 off"/>
+        <e k="actionIC_diffLockFrontOn" v="IC: 前差速器锁 on"/>
+        <e k="actionIC_diffLockFrontOff" v="IC: 前差速器锁 off"/>
+        <e k="actionIC_allWheelDriveOn" v="IC: 全轮模式 on"/>
+        <e k="actionIC_allWheelDriveOff" v="IC: 全轮模式 off"/>
+        <e k="actionIC_diffLockBackOn" v="IC: 差速锁背面 on"/>
+        <e k="actionIC_diffLockBackOff" v="IC: 差速锁背面 off"/>
+        <e k="actionIC_turnPumpOn" v="IC: 打开泵"/>
+        <e k="actionIC_turnPumpOff" v="IC: 关闭泵"/>
+        <e k="actionIC_pumpDirectionDrain" v="IC: 将泵方向切换至：排放"/>
+        <e k="actionIC_pumpDirectionFill" v="IC: 将泵方向切换为：加注"/>
+        <e k="action_activateIC" v="激活交互控制"/>
+        <e k="action_deactivateIC" v="禁用交互控制"/>
+        <e k="configuration_interactiveControl" v="交互式控制"/>
+        <e k="input_IC_CLICK" v="IC: 交互式控制点击点"/>
+        <e k="input_IC_TOGGLE_STATE" v="IC: 切换交互控件"/>
+        <e k="settingsIC_title" v="交互式控制"/>
+        <e k="settingsIC_state_title" v="IC 状态"/>
+        <e k="settingsIC_state_tooltip" v="打开、关闭或可切换交互式控制."/>
+        <e k="settingsIC_state_option01" v="可切换的"/>
+        <e k="settingsIC_state_option02" v="始终处于活动状态"/>
+        <e k="settingsIC_state_option03" v="Off"/>
+        <e k="settingsIC_keepAlive_title" v="保持IC激活"/>
+        <e k="settingsIC_keepAlive_tooltip" v="离开车辆时，交互式控制保持激活状态。"/>
+        <e k="settingsIC_clickPointHover_optionTime" v="%.1f s"/>
+        <e k="settingsIC_clickPointHover_optionTimeOff" v="Off"/>
+        <e k="settingsIC_clickPointHover_title" v="IC 悬停激活"/>
+        <e k="settingsIC_clickPointHover_tooltip" v="如果将鼠标悬停在单击点上一段时间，请切换交互式控制"/>
+    </elements>
+</l10n>
